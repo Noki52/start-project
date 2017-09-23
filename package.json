@@ -1,0 +1,22 @@
+{
+  "name": "start-project",
+  "version": "0.0.2",
+  "description": "start project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noki52/start-project.git"
+  },
+  "author": "Dmytro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Noki52/start-project/issues"
+  },
+  "homepage": "https://github.com/Noki52/start-project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
